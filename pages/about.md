@@ -8,7 +8,19 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Example About Content;About the About Page" %}
+
+## Example About Content
+
+First sentence
+2nd sentence.
+
+A link to my [source code](https://mimishu.github.io/collectionbuilder)
+
+A list of things relevant to my collection:
+- thing one
+- thing two
+- thing three
 
 ## About the Collection
 
